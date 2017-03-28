@@ -15,12 +15,12 @@ $_['text_email']      = 'Введіть e-mail який Ви використа�
 $_['text_success']    = 'На ваш e-mail відправлено новий пароль.';
 
 // Entry
-$_['entry_email']     = 'E-Mail';
-$_['entry_password']  = 'New Password';
-$_['entry_confirm']   = 'Confirm';
+$_['entry_email']     = 'E-Mail адрес';
+$_['entry_password']  = 'Новий пароль';
+$_['entry_confirm']   = 'Підтвердити';
 
 // Error
 $_['error_email']     = 'Цей E-Mail не зареєстровано на нашому сайті!';
-$_['error_approved']  = 'Warning: Your account requires approval before you can login.';
-$_['error_password']  = 'Password must be between 4 and 20 characters!';
-$_['error_confirm']   = 'Password and password confirmation do not match!';
+$_['error_approved']  = 'Увага: Ваш обліковий запис вимагає схвалень перед входом.';
+$_['error_password']  = 'Пароль має бути від 4 до 20 символів!';
+$_['error_confirm']   = 'Пароль і підтверждувальний пароль незбігаються!';
